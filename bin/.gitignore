@@ -1,14 +1,16 @@
+/checkpoint mod 1
+/for_loops/
+/methods/
+/variables_and_conditionals/
 /Age.class
 /Cube.class
 /Frogquiz.class
 /Grade.class
 /LotteryNumbers.class
-/checkpoint mod 1
-/for_loops/
-/methods/
-/variables_and_conditionals/
+/Magic8Ball.class
 /RandomGenarater.class
 /Shape.class
 /Sorter.class
 /UnBirthday.class
-/Magic8Ball.class
+/Random.class
+/RandomGen.class
